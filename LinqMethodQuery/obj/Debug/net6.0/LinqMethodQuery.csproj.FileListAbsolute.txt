@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\bin\Debug\net6.0\LinqMethodQuery.exe
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\bin\Debug\net6.0\LinqMethodQuery.deps.json
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\bin\Debug\net6.0\LinqMethodQuery.runtimeconfig.json
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\bin\Debug\net6.0\LinqMethodQuery.dll
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\bin\Debug\net6.0\LinqMethodQuery.pdb
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\obj\Debug\net6.0\LinqMethodQuery.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\obj\Debug\net6.0\LinqMethodQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\obj\Debug\net6.0\LinqMethodQuery.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\obj\Debug\net6.0\LinqMethodQuery.AssemblyInfo.cs
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\obj\Debug\net6.0\LinqMethodQuery.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\obj\Debug\net6.0\LinqMethodQuery.dll
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\obj\Debug\net6.0\refint\LinqMethodQuery.dll
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\obj\Debug\net6.0\LinqMethodQuery.pdb
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\obj\Debug\net6.0\LinqMethodQuery.genruntimeconfig.cache
+C:\Users\HP\Desktop\NewM\LinqMethodQuery\LinqMethodQuery\obj\Debug\net6.0\ref\LinqMethodQuery.dll
